@@ -1,0 +1,10 @@
+# Virtual environment
+venv/
+
+# Model files (besar)
+*.keras
+*.h5
+
+# Optional
+__pycache__/
+*.pyc
