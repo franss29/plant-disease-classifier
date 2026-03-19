@@ -1,9 +1,10 @@
 # Virtual environment
 venv/
 
-# Model files (besar)
+# Model files keras (besar, tidak perlu)
 *.keras
-*.h5
+
+# Tapi weights.h5 TETAP diupload — hapus baris *.h5
 
 # Optional
 __pycache__/
